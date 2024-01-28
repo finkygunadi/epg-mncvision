@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="VisionPrime.id">
     <display-name lang="id">Vision Prime HD</display-name>
@@ -478,7 +478,7 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_357.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <programme start="20240125170000 +0000" stop="20240125180000 +0000" channel="90"><title lang="id">Trending Banget Loh</title></programme>
+<programme start="20240125170000 +0000" stop="20240125180000 +0000" channel="90"><title lang="id">Trending Banget Loh</title></programme>
 <programme start="20240125180000 +0000" stop="20240125191500 +0000" channel="90"><title lang="id">Go Spot</title></programme>
 <programme start="20240125191500 +0000" stop="20240125200000 +0000" channel="90"><title lang="id">Intens Reborn</title></programme>
 <programme start="20240125200000 +0000" stop="20240125203000 +0000" channel="90"><title lang="id">Seleb On News</title></programme>
